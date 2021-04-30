@@ -42,7 +42,7 @@ vc.2 <- c(seq(100,200,2))
 vc.2
 
 #08
-vc.3 <- rep(c(TRUE),times=20)  #c(rep(TRUE,times=20))하면 오류.??
+vc.3 <- rep(c(TRUE),times=20)  #rep(TRUE,times=20) 알아서 벡터화#c(rep(TRUE,times=20))하면 오류.??
 vc.3
 
 #09
